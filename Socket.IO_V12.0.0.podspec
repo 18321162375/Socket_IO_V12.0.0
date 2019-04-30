@@ -80,7 +80,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "http://EXAMPLE/Socket.IO_V12.0.0.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/18321162375/Socket_IO_V12.0.0.git", :tag => "0.0.1" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
